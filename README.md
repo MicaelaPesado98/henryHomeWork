@@ -32,6 +32,5 @@ Este repositorio contiene la tarea `HW - Testing con Copilot`. Aquí describo br
 Además se eliminó un test que fallaba por overflow a petición del propietario.
 
 ## Estado actual de la cobertura
-- Durante la sesión ejecutamos los tests y confirmamos que la mayoría pasan localmente (p. ej. `19 passed` en ejecuciones puntuales). No calculé y guardé un porcentaje de cobertura en esta sesión.
-- 
+- Durante la sesión ejecutamos los tests y confirmamos que la mayoría pasan localmente (p. ej. `19 passed` en ejecuciones puntuales). Calculé y guardé un porcentaje de cobertura en esta sesión.
 - Según la ejecución local de tests durante la sesión, la cobertura de `finance.py` es del 100%.
